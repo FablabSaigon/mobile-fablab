@@ -1,71 +1,41 @@
-- title: Start
+- title: Mobile Fablab
   url: "/"
   side: left
 
-- title: Getting Started
-  url: "/getting-started/"
+- title: The project
+  url: "/the-project/"
   side: left
 
-- title: "Templates"
-  url: "/design/"
-  side: left
-  dropdown:
-  - title: "Grid & Colors"
-    url: "/design/grid/"
-  - title: "Typography"
-    url: "/design/typography/typography/"
-  - title: "Page/Post"
-    url: "/design/page/"
-  - title: "Post-Left-Sidebar"
-    url: "/design/post-left-sidebar/"
-  - title: "Post-Right-Sidebar"
-    url: "/design/post-right-sidebar/"
-  - title: "Page Full-Width"
-    url: "/design/page-fullwidth/"
-  - title: "Blog-Page"
-    url: "/blog/"
-  - title: "Video"
-    url: "/design/video/"
-  - title: "Gallery"
-    url: "/design/gallery/"
-  - title: "Portfolio"
-    url: "/design/portfolio/"
-
-- title: "Header Styles"
-  url: "/headers/"
+- title: "The Journey"
+  url: "/the-journey/"
   side: left
   dropdown:
-  - title: "Header with Full-Width-Image"
-    url: "/design/header-full-width-image/"
-  - title: "Header with Image and Pattern"
-    url: "/design/header-image-pattern/"
-  - title: "Header with image and color"
-    url: "/design/header-image-color/"
-  - title: "Header Only With Logo"
-    url: "/design/header-logo-only/"
-  - title: "Header With Text"
-    url: "/design/header-with-text/"
-  - title: "No Header"
-    url: "/design/no-header/"
-  - title: "No Header but Image"
-    url: "/design/no-header-but-image/"
+  - title: "Vung Tau"
+    url: "/the-journey/vung-tau/"
+  - title: "Nha Trang"
+    url: "/the-journey/nha-trang/"
+  - title: "Dalat"
+    url: "/the-journey/dalat/"
+  
+- title: "Who we are"
+  url: "/who-we-are/"
+  side: left
 
-- title: Documentation
-  url: "/documentation/"
+- title: Get involved!
+  url: "/help-us/"
   side: left
   dropdown:
-  - title: "Changelog"
-    url: "/changelog/"
-  - title: "Roadmap"
-    url: "/roadmap/"
-
-- title: Blog
-  url: "/blog/"
+  - title: "Become a local partner"
+    url: "/local-partner/"
+  - title: "Crowdfunding"
+    url: "/crowdfunding/"
+  - title: "Become a volunteer"
+    url: "/volunteer/"
+    
+- title: Who we are
+  url: "/fablab-saig/"
   side: left
-  dropdown:
-  - title: "Blog Archive"
-    url: "/blog/archive/"
-
+ 
 - title: "Search"
   url: "/search/"
   side: right
