@@ -31,10 +31,6 @@
     url: "/crowdfunding/"
   - title: "Become a volunteer"
     url: "/volunteer/"
-    
-- title: Who we are
-  url: "/fablab-saig/"
-  side: left
  
 - title: "Search"
   url: "/search/"
