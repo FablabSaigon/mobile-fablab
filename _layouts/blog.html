@@ -9,7 +9,7 @@ noindex: true
 		{% if page.filter==NULL %}
 			{% include _pagination.html %}
 		{% else %}
-			{% include list-posts-thumbs entries=filter.entries offset=filter.offset category=filter.category tag=filter.tag %}
+			{% include list-posts-thumbs entries=page.filter.entries offset=page.filter.offset category=page.filter.category tag=page.filter.tag %}
 		{% endif %}
 	</div><!-- /.medium-7.columns -->
 
