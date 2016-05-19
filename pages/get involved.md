@@ -1,8 +1,11 @@
 ---
 layout: page
 title: "Get involved"
-teaser: "How can you help with this project?"
-permalink: "/help-us/"
+meta_title: "How can you help with this project"
+subheadline: "Wufoo-powered contact forms"
+teaser: "How can you help with this project"
+permalink: "/contact/"
+
 categories:
     - design
 tags:
