@@ -3,7 +3,7 @@ layout: page
 title: "Get involved"
 meta_title: "How can you help with this project"
 teaser: "How can you help with this project"
-permalink: "/contact/"
+permalink: "/help-us/"
 
 categories:
     - design
