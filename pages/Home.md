@@ -1,6 +1,7 @@
 ---
 layout: default
 format: frontpage
+permalink: "/"
 ---
 <div id="header-home">
     <div class="row">
