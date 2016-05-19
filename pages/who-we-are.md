@@ -7,19 +7,10 @@ subheadline: ""
 title: "Fablab Saigon"
 teaser: ""
 categories:
-  -
-tags:
-  -
-#
-# Gallery
-#
-gallery:
-    - image_url: gallery-example-1.jpg
-      caption: Great images by Unsplash.com
-    - image_url: gallery-example-2.jpg
-      caption: Great images by Unsplash.com
-    - image_url: gallery-example-3.jpg
-      caption: Great images by Unsplash.com
+header:
+    image_fullwidth: "unsplash_brooklyn-bridge_header.jpg"
+    caption: This is a caption for the header image with link
+    caption_url: https://unsplash.com/
 #
 # Styling
 #
@@ -34,4 +25,4 @@ permalink: "/who-we-are/"
 
 A fablab is a small-scale workshop offering (personal) digital fabrication. It is a creative and social place to empower the community to innovate and build local solutions for local problems and needs.
 
-Fablab Saigon started in March 2014 in the heart of Ho Chi Minh City. We are the first registered Fablab in Vietnam. Since then Fablab Danang, Fablab Hanoi also opened, and we work together to build the Fablabs Vietnam Network. DAVID
+Fablab Saigon started in March 2014 in the heart of Ho Chi Minh City. We are the first registered Fablab in Vietnam. Since then Fablab Danang, Fablab Hanoi also opened, and we work together to build the Fablabs Vietnam Network.
