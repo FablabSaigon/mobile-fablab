@@ -1,0 +1,24 @@
+---
+layout: page
+#
+# Content
+#
+subheadline: ""
+title: "Nha Trang"
+teaser: ""
+categories:
+header:
+    image_fullwidth: "IMG_3249.JPG"
+#
+# Styling
+#
+image:
+ thumb:
+#
+# Metainformation & Customization
+#
+meta_description:
+permalink: "/Nha Trang/"
+---
+
+Nha Trang (/ˌnɑːˈtʃæŋ/, Vietnamese pronunciation: [ɲaː˧ ʈʂaːŋ˧] ( listen)) is a coastal city and capital of Khánh Hòa Province, on the South Central Coast of Vietnam. It is bounded on the north by Ninh Hoà district, on the south by Cam Ranh town and on the west by Diên Khánh District. The city has about 392,000 inhabitants, a number that is projected to increase to 560,000 by 2015 and 630,000 inhabitants by 2025.[1] An area of 12.87 square kilometres (4.97 sq mi) of the western communes of Diên An and Diên Toàn is planned to be merged into Nha Trang which will make its new area 265.47 square kilometres (102.50 sq mi) based on the approval of the Prime Minister of Vietnam in September 2012.
