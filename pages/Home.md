@@ -1,7 +1,7 @@
 ---
 layout: default
 format: frontpage
-permalink: "/"
+permalink: "http://mobile.fablabsaigon.org/"
 ---
 <div id="header-home">
     <div class="row">
