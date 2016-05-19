@@ -1,6 +1,6 @@
 ---
 layout: page
-title:"Get involved"
+title: "Get involved"
 teaser: "How can you help with this project?"
 permalink: "/help-us/"
 categories:
