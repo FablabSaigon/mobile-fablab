@@ -8,9 +8,7 @@ title: "Fablab Saigon"
 teaser: ""
 categories:
 header:
-    image_fullwidth: "unsplash_brooklyn-bridge_header.jpg"
-    caption: This is a caption for the header image with link
-    caption_url: https://unsplash.com/
+    image_fullwidth: "IMG_3249.JPG"
 #
 # Styling
 #
