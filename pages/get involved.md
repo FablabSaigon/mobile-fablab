@@ -1,8 +1,7 @@
 ---
 layout: page
-title:  "Get involved"
 subheadline:  "How can you help with this project?"
-teaser: "We need you to realise this project <em>full-width-image</em>."
+teaser: "How can you help with this project?"
 permalink: "/help-us/"
 categories:
     - design
