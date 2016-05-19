@@ -1,23 +1,26 @@
 ---
 layout: page
+#
+# Content
+#
+subheadline: ""
 title: "Get involved"
-meta_title: "How can you help with this project"
 teaser: "How can you help with this project"
-permalink: "/help-us/"
-
 categories:
-    - design
-tags:
-    - design
-    - background color
-    - header
-image:
-   thumb: "unsplash_brooklyn-bridge-thumb.jpg"
 header:
-    image_fullwidth: "unsplash_brooklyn-bridge_header.jpg"
-    caption: This is a caption for the header image with link
-    caption_url: https://unsplash.com/
+    image_fullwidth: "IMG_3249.JPG"
+#
+# Styling
+#
+image:
+ thumb:
+#
+# Metainformation & Customization
+#
+meta_description:
+permalink: "/help-us/"
 ---
+
 1) Become a local partner. In each city we are looking for a local partner to help us with: 
 Call for challenges
 Call for participants
