@@ -9,13 +9,6 @@
 - title: "The Journey"
   url: "/the-journey/"
   side: left
-  dropdown:
-  - title: "Vung Tau"
-    url: "/the-journey/vung-tau/"
-  - title: "Nha Trang"
-    url: "/the-journey/nha-trang/"
-  - title: "Dalat"
-    url: "/the-journey/dalat/"
   
 - title: "Who we are"
   url: "/who-we-are/"
