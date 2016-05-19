@@ -24,13 +24,7 @@
 - title: Get involved!
   url: "/help-us/"
   side: left
-  dropdown:
-  - title: "Become a local partner"
-    url: "/local-partner/"
-  - title: "Crowdfunding"
-    url: "/crowdfunding/"
-  - title: "Become a volunteer"
-    url: "/volunteer/"
+
  
 - title: "Search"
   url: "/search/"
