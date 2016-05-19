@@ -2,7 +2,6 @@
 layout: page
 title: "Get involved"
 meta_title: "How can you help with this project"
-subheadline: "Wufoo-powered contact forms"
 teaser: "How can you help with this project"
 permalink: "/contact/"
 
@@ -30,18 +29,4 @@ Logistics support (venue for the event, accommodation, etc.)
 
 <!--more-->
 
-## Front Matter Code
 
-~~~
-header:
-    image_fullwidth: "unsplash_brooklyn-bridge_header.jpg"
-    caption: This is a caption for the header image with link
-    caption_url: https://unsplash.com/
-~~~
-
-
-
-### All Header-Styles 
-{: .t60 }
-
-{% include list-posts tag='header' %}
