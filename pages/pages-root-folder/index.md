@@ -7,12 +7,12 @@
 layout: frontpage
 header:
   image_fullwidth: header_unsplash_12.jpg
-widget2:
+widget1:
   title: "What is the Mobile Fablab?"
   url: 'http://mobile.fablabsaigon.org/the-project/'
   text: 'Our mission is innovation literacy and we want to reach out to smaller cities in Vietnam. Especially, we want to show kids’ throughout Vietnam that digital fabrication can help make their dreams come true.'
   video: '<a href="#" data-reveal-id="videoModal"><img src="http://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""/></a>'
-  widget1:
+  widget2:
   title: "Blog & Portfolio"
   url: 'http://phlow.github.io/feeling-responsive/blog/'
   image: widget-1-302x182.jpg
