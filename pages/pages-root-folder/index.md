@@ -12,18 +12,18 @@ widget1:
   title: "What is the Mobile Fablab?"
   url: 'http://mobile.fablabsaigon.org/the-project/'
   text: 'Our mission is innovation literacy in Vietnam. Especially, we want to show kids’ throughout Vietnam that digital fabrication can help make their dreams come true.'
-  image: event.jpg 
+  image: event.jpg
 
 widget2:
   title: "Our Journey Through Vietnam"
   url: 'http://mobile.fablabsaigon.org/the-journey/'
-  image: map.JPG 
+  image: map.JPG
   text: 'Ho Chi Minh city, Danang and Hanoi are all big cities. Our mission is innovation literacy and we want to reach out to smaller cities in Vietnam.'
   
 widget3:
   title: "Who are we?"
   url: 'http://mobile.fablabsaigon.org/who-we-are/'
-  image: logofablab.png 
+  image: logofablab.png
   text: 'Fablab Saigon started in March 2014. A Fablab is a small-scale workshop offering (personal) digital fabrication.'
 #
 # Use the call for action to show a button on the frontpage
