@@ -25,7 +25,7 @@ widget3:
 #
 # Use the call for action to show a button on the frontpage
 #
-# To make internal links, just use a permalink like this
+# To make internal links, just use a permalink like this 
 # url: /getting-started/
 #
 # To style the button in different colors, use no value
