@@ -8,7 +8,7 @@ title: "What is the Mobile Fablab"
 teaser: ""
 categories:
 header:
-    image_fullwidth: "IMG_3249.JPG"
+    image_fullwidth: "header-bus.jpg"
 #
 # Styling
 #
