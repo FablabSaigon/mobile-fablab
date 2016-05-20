@@ -6,7 +6,7 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: header_unsplash_12.jpg
+  image_fullwidth: header-bus.jpg
 
 widget1:
   title: "What is the Mobile Fablab?"
