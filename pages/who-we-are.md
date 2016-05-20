@@ -8,7 +8,7 @@ title: "Fablab Saigon"
 teaser: ""
 categories:
 header:
-    image_fullwidth: "team.jpg"
+    image_fullwidth: "team.JPG"
 #
 # Styling
 #
