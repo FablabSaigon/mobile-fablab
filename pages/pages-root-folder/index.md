@@ -22,7 +22,7 @@ widget3:
   url: 'http://mobile.fablabsaigon.org/who-we-are/'
   image: logofablab.png
   text: 'Fablab Saigon started in March 2014. A Fablab is a small-scale workshop offering (personal) digital fabrication.'
-#
+# 
 # Use the call for action to show a button on the frontpage
 #
 # To make internal links, just use a permalink like this 
