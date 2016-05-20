@@ -6,7 +6,7 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: header-bus.jpg
+  image_fullwidth: vietnamhead.jpg
 widget1:
   title: "What is the Mobile Fablab?"
   url: 'http://mobile.fablabsaigon.org/the-project/'
