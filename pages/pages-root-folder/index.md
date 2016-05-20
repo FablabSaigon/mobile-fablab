@@ -8,7 +8,7 @@ layout: frontpage
 header:
   image_fullwidth: header-bus.jpg
 widget1:
-  title: "What is the mobile fablab?"
+  title: "What is the Mobile Fablab?"
   url: 'http://mobile.fablabsaigon.org/the-project/'
   image: event.jpg
   text: 'Our mission is innovation literacy in Vietnam. Especially, we want to show kids’ throughout Vietnam that digital fabrication can help make their dreams come true.'
@@ -21,7 +21,7 @@ widget3:
   title: "Who are we?"
   url: 'http://mobile.fablabsaigon.org/who-we-are/'
   image: logofablab.png
-  text: 'Fablab Saigon started in March 2014. A Fablab is a small-scale workshop offering (personal) digital fabrication.'
+  text: 'Fablab Saigon started in March 2014. A Fablab is a small-scale workshop offering (personal) digital fabrication.                                    '
 # 
 # Use the call for action to show a button on the frontpage
 #
