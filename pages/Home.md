@@ -1,4 +1,0 @@
----
-layout: frontpage
-permalink: "http://mobile.fablabsaigon.org/"
----
