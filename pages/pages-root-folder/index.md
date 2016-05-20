@@ -7,16 +7,16 @@
 layout: frontpage
 header:
   image_fullwidth: header_unsplash_12.jpg
-widget1:
-  title: "What is the Mobile Fablab?"
-  url: 'http://mobile.fablabsaigon.org/the-project/'
-  text: 'Our mission is innovation literacy in Vietnam. Especially, we want to show kids’ throughout Vietnam that digital fabrication can help make their dreams come true.'
-  video: '<a href="#" data-reveal-id="videoModal"><img src="http://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""/></a>'
-  widget2:
+  widget1:
   title: "Our Journey Through Vietnam"
   url: 'http://mobile.fablabsaigon.org/the-journey/'
   image: widget-1-302x182.jpg
   text: 'Ho Chi Minh city, Danang and Hanoi are all big cities. Our mission is innovation literacy and we want to reach out to smaller cities in Vietnam.'
+  widget2:
+  title: "What is the Mobile Fablab?"
+  url: 'http://mobile.fablabsaigon.org/the-project/'
+  text: 'Our mission is innovation literacy in Vietnam. Especially, we want to show kids’ throughout Vietnam that digital fabrication can help make their dreams come true.'
+  video: '<a href="#" data-reveal-id="videoModal"><img src="http://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""/></a>'
 widget3:
   title: "Who are we?"
   url: 'http://mobile.fablabsaigon.org/who-we-are/'
