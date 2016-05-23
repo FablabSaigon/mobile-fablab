@@ -8,7 +8,7 @@ title: "Get involved"
 teaser: "How can you help with this project"
 categories:
 header:
-    image_fullwidth: "header-bus.jpg"
+    image_fullwidth: "team.JPG"
 #
 # Styling
 #
