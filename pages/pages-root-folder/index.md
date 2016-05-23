@@ -16,7 +16,7 @@ widget2:
   title: "Our Journey"
   url: 'http://mobile.fablabsaigon.org/the-journey/'
   image: map.JPG
-  text: 'Ho Chi Minh city, Danang and Hanoi are all big cities. Our mission is innovation literacy and we want to reach out to smaller cities in Vietnam.
+  text: 'Ho Chi Minh city, Danang and Hanoi are all big cities. Our mission is innovation literacy and we want to reach out to smaller cities in Vietnam, such as Vung Tau, Nha Trang or Dalat.
   <br/>'
 widget3:
   title: "Who are we?"
