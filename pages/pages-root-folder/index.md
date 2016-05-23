@@ -8,12 +8,12 @@ layout: frontpage
 header:
   image_fullwidth: head.jpg
 widget1:
-  title: "What is the Mobile Fablab?"
+  title: "A Mobile Fablab?"
   url: 'http://mobile.fablabsaigon.org/the-project/'
   image: event.jpg
   text: 'Our mission is innovation literacy in Vietnam. Especially, we want to show kids’ throughout Vietnam that digital fabrication can help make their dreams come true.'
 widget2:
-  title: "Our Journey Through Vietnam"
+  title: "Our Journey"
   url: 'http://mobile.fablabsaigon.org/the-journey/'
   image: map.JPG
   text: 'Ho Chi Minh city, Danang and Hanoi are all big cities. Our mission is innovation literacy and we want to reach out to smaller cities in Vietnam.
