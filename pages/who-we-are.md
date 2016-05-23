@@ -26,6 +26,6 @@ A fablab is a small-scale workshop offering (personal) digital fabrication. It i
 Fablab Saigon started in March 2014 in the heart of Ho Chi Minh City. We are the first registered Fablab in Vietnam. Since then Fablab Danang, Fablab Hanoi also opened, and we work together to build the Fablabs Vietnam Network.
 
 For more informations and news, check out our website and our Facebook page below:
-<a href="http://fablabsaigon.org/">Fablab Saigon website</a>
-<a href="https://www.facebook.com/FablabSaigon">Fablab Saigon Facebook page</a>
+<a href="http://fablabsaigon.org/">Website</a>
+<a href="https://www.facebook.com/FablabSaigon">Facebook page</a>
 
