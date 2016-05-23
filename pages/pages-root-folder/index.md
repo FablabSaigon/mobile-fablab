@@ -11,7 +11,7 @@ widget1:
   title: "What is the Mobile Fablab?"
   url: 'http://mobile.fablabsaigon.org/the-project/'
   image: event.jpg
-  text: 'Our mission is innovation literacy in Vietnam. Especially, we want to show kids’ throughout Vietnam that digital fabrication can help make their dreams come true.'
+  text: 'Our mission is innovation literacy in Vietnam. Especially, we want to show kids’ throughout Vietnam that digital fabrication can help make their dreams come true.<br/>'
 widget2:
   title: "Our Journey Through Vietnam"
   url: 'http://mobile.fablabsaigon.org/the-journey/'
