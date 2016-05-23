@@ -19,11 +19,10 @@ widget2:
   text: 'Ho Chi Minh city, Danang and Hanoi are all big cities. Our mission is innovation literacy and we want to reach out to smaller cities in Vietnam.
   <br/>'
 widget3:
-  title: "<br/>Who are we?"
+  title: "Who are we?"
   url: 'http://mobile.fablabsaigon.org/who-we-are/'
   image: logofablab.png
-  text: 'Fablab Saigon started in March 2014. A Fablab is a small-scale workshop offering (personal) digital fabrication.
-  <br/>
+  text: 'A Fablab is a small-scale workshop offering (personal) digital fabrication. Fablab Saigon started in March 2014 in Binh Tanh district, the center of Ho Chi Minh City. 
   <br/>'
 # 
 # Use the call for action to show a button on the frontpage
