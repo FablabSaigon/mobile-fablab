@@ -32,7 +32,8 @@ What?
 In each city, we will run a 48h “Maker to entrepreneur” Bootcamp, with about 20 to 30 kids, aged from 14 to 18 years old (9th to 12th grade). We want challenges that are locally relevant.
 So the topic in each city will be determined by the kids themselves as we call for challenges and participants with the help from local partners. As a proof of concept, Fablab Saigon has already run a 48h Bootcamp with children in Saigon, during which the participants came out with great realisations.
 
--  video: '<a href="#" data-reveal-id="videoModal"><img src="http://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""/></a>'
+<a href="#" data-reveal-id="videoModal">
+<img src="http://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""/></a>
 
 We will document the challenges on our website and call to the wider community to brainstorm on solutions. During the bootcamp, kids will leverage the contribution of the community and learn to ideate solutions in teams, design products, and digitally fabricate them. 
 
