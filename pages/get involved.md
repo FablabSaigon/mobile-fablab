@@ -26,7 +26,7 @@ Call for challenges
 Call for participants
 Logistics support (venue for the event, accommodation, etc.)
 
-2) Help us with our crowdfunding campaign. The campaign will be launched beginning of June. Help us to spread the word and.
+2) Help us with our <a href="https://igg.me/at/1xYUqgXCs-8">crowdfunding campaign</a> on Generosity!. Help us to spread the word.
 
 3) Join us as a volunteer. There’s a lot of work to put together this program: from acquiring a truck, to reaching out to the network, building a website, preparing marketing collaterals, running the bootcamp, we always welcome helping hands!
 
