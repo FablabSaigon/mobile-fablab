@@ -20,8 +20,8 @@ image:
 meta_description:
 permalink: "/the-project/"
 ---
-<iframe width='500' height='300' src='https://www.youtube.com/watch?v=uKzPOO4x1ck' frameborder='0' allowfullscreen></iframe>
 
+<iframe width='485' height='273' src='https://www.youtube.com/watch?v=uKzPOO4x1ck' frameborder='0' allowfullscreen></iframe>
 
 Why this project?
 
