@@ -19,5 +19,5 @@ image:
 # Metainformation & Customization
 #
 meta_description:
-permalink: "/the-journey/buonmathuot/"
+permalink: "/the-journey/buon-ma-thuot/"
 ---
