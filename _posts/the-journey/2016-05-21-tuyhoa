@@ -1,0 +1,23 @@
+---
+layout: page
+#
+# Content
+#
+subheadline: "#3 stop over"
+title: "Tuy Hoa"
+teaser: " Tuy Hoa........"
+categories:
+    - the-journey
+header:
+    image_fullwidth: "Tuy Hoa.jpg"
+#
+# Styling
+#
+image:
+ thumb: Tuy Hoa.jpg
+#
+# Metainformation & Customization
+#
+meta_description:
+permalink: "/the-journey/tuy-hoa/"
+---
