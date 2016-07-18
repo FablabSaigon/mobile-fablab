@@ -32,25 +32,32 @@ Logistics support (venue for the event, accommodation, etc.)
 
 Thanks to those who already donated!
 
-Barry Clark                                                              Phi Anh Phan
-Eragok                                                                   Maxime
-LeHieu76                                                                 eric.llouquet
-Quang                                                                    truonghai_313
-viet.thi.nguyen                                                          hanvo87
-Victor Peycelon                                                          Nguyen Trong Nhan
-Margot Adelski                                                           Bach Hai Nguyen Long
-Han Nguyen                                                               Hoang-Anh
-Mai Nguyen                                                               Huy Canh
-CanPhuon                                                                 Ho Hoanh
-liembinhluongnguyen                                                      Nam Son Laser
-doanhuu.duc
-brian_d_cotter
-hieu.trung.nguyen90
-Matt Sanders
-
-
-
-
+Barry Clark,
+Eragok,
+LeHieu76,
+Quang,
+viet.thi.nguyen,
+Victor Peycelon,
+Margot Adelski,
+Han Nguyen,
+Mai Nguyen,
+CanPhuon,
+liembinhluongnguyen,
+doanhuu.duc,
+brian_d_cotter,
+hieu.trung.nguyen90,
+Matt Sanders,
+Phi Anh Phan,
+Maxime,
+eric.llouquet,
+truonghai_313,
+hanvo87,
+Nguyen Trong Nhan,
+Bach Hai Nguyen Long,
+Hoang-Anh,
+Huy Canh,
+Ho Hoanh,
+Nam Son Laser.
 
 
 
