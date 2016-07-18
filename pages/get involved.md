@@ -30,4 +30,33 @@ Logistics support (venue for the event, accommodation, etc.)
 
 3) Join us as a volunteer. There’s a lot of work to put together this program: from acquiring a truck, to reaching out to the network, building a website, preparing marketing collaterals, running the bootcamp, we always welcome helping hands!
 
+Thanks to those who already donated!
+
+Barry Clark                                                              Phi Anh Phan
+Eragok                                                                   Maxime
+LeHieu76                                                                 eric.llouquet
+Quang                                                                    truonghai_313
+viet.thi.nguyen                                                          hanvo87
+Victor Peycelon                                                          Nguyen Trong Nhan
+Margot Adelski                                                           Bach Hai Nguyen Long
+Han Nguyen                                                               Hoang-Anh
+Mai Nguyen                                                               Huy Canh
+CanPhuon                                                                 Ho Hoanh
+liembinhluongnguyen                                                      Nam Son Laser
+doanhuu.duc
+brian_d_cotter
+hieu.trung.nguyen90
+Matt Sanders
+
+
+
+
+
+
+
+
+
+
+
+
 
