@@ -30,7 +30,7 @@ Logistics support (venue for the event, accommodation, etc.)
 
 3) Join us as a volunteer. There’s a lot of work to put together this program: from acquiring a truck, to reaching out to the network, building a website, preparing marketing collaterals, running the bootcamp, we always welcome helping hands!
 
-Thanks to those who already donated!
+=Thanks to those who already donated!
 
 Barry Clark,
 Eragok,
